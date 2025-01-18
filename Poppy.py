@@ -3,7 +3,7 @@ from pypot.creatures import PoppyTorso
 import time
 import Settings as s
 from Audio import say
-
+# BYE
 class Poppy(threading.Thread):
 
     def __init__(self):
